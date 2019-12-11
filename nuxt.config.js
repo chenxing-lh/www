@@ -60,7 +60,7 @@ export default {
    */
   build: {
     transpile: [/^element-ui/],
-    publicPath,
+    publicPath: process.env.PUBLIC_PATH || '.',
     /*
      ** You can extend webpack config here
      */
