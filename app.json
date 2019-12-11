@@ -1,0 +1,19 @@
+{
+  "appKey": "yeIkl32THjRAdaMiFBeriV8iWh03rTTo",
+  "appSecret": "Dw6OYGRO6N0EvsAO42TiQWDOIgyv4oxJ",
+  "projectId": "8169e0b336f2872e44def725deda7f56",
+  "id": 306,
+  "name": "wqq",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/chenxing-lh/www.git",
+    "isPrivate": 0,
+    "username": "381606250@qq.com",
+    "password": "lh15627836616"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
